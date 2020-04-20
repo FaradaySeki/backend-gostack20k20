@@ -10,3 +10,4 @@ Go Barber Back-end :computer:
 - [x]  Containerization with Docker Engine
 - [x]  TDD
 - [x]  AWS STORAGE SERVICES
+- [x]  TYPESCRIPT + DECORATORS
