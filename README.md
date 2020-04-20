@@ -1,7 +1,7 @@
-#Go Barber Back-end :computer:
+Go Barber Back-end :computer:
 ---
 
-Project developed during **[GoStack](https://rocketseat.com.br/gostack)** *bootcamp.*
+>Project developed during **[GoStack](https://rocketseat.com.br/gostack)** *bootcamp.*
 
 ### Main Concepts
 
